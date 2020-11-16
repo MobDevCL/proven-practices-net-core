@@ -4724,11 +4724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git-mobdev\\mobdev.bestpractice\\mobdev.bestpractice.test\\mobdev.bestpractice.test.csproj",
+      "projectUniqueName": "D:\\git-mobdev\\best-practices\\unit testing\\mobdev.bestpractice\\mobdev.bestpractice.test\\mobdev.bestpractice.test.csproj",
       "projectName": "mobdev.bestpractice.test",
-      "projectPath": "D:\\git-mobdev\\mobdev.bestpractice\\mobdev.bestpractice.test\\mobdev.bestpractice.test.csproj",
+      "projectPath": "D:\\git-mobdev\\best-practices\\unit testing\\mobdev.bestpractice\\mobdev.bestpractice.test\\mobdev.bestpractice.test.csproj",
       "packagesPath": "C:\\Users\\ccard\\.nuget\\packages\\",
-      "outputPath": "D:\\git-mobdev\\mobdev.bestpractice\\mobdev.bestpractice.test\\obj\\",
+      "outputPath": "D:\\git-mobdev\\best-practices\\unit testing\\mobdev.bestpractice\\mobdev.bestpractice.test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4747,8 +4747,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\git-mobdev\\mobdev.bestpractice\\mobdev.bestpractice.domain\\mobdev.bestpractice.domain.csproj": {
-              "projectPath": "D:\\git-mobdev\\mobdev.bestpractice\\mobdev.bestpractice.domain\\mobdev.bestpractice.domain.csproj"
+            "D:\\git-mobdev\\best-practices\\unit testing\\mobdev.bestpractice\\mobdev.bestpractice.domain\\mobdev.bestpractice.domain.csproj": {
+              "projectPath": "D:\\git-mobdev\\best-practices\\unit testing\\mobdev.bestpractice\\mobdev.bestpractice.domain\\mobdev.bestpractice.domain.csproj"
             }
           }
         }

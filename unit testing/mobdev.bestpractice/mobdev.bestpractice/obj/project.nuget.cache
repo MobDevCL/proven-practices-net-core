@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SjiW1lBcXguY243ibvC2C3ipTkbP/tsAtKY3IocxeYof54u6WwJBQeerkBXsylr3812Rlpr3FrFkko2QnODn6g==",
+  "dgSpecHash": "gvnovXl8ShrjdvSmkVswfaUXc8ql+2lZSjclsGKm043u/1pfkW2HZUG2G0NikAyskrpLn7hWgafB/7KbiRGxIA==",
   "success": true,
-  "projectFilePath": "D:\\git-mobdev\\mobdev.bestpractice\\mobdev.bestpractice\\mobdev.bestpractice.csproj",
+  "projectFilePath": "D:\\git-mobdev\\best-practices\\unit testing\\mobdev.bestpractice\\mobdev.bestpractice\\mobdev.bestpractice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

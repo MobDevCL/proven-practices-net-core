@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git-mobdev\\mobdev.bestpractice\\mobdev.bestpractice\\mobdev.bestpractice.csproj": {}
+    "D:\\git-mobdev\\best-practices\\unit testing\\mobdev.bestpractice\\mobdev.bestpractice\\mobdev.bestpractice.csproj": {}
   },
   "projects": {
-    "D:\\git-mobdev\\mobdev.bestpractice\\mobdev.bestpractice\\mobdev.bestpractice.csproj": {
+    "D:\\git-mobdev\\best-practices\\unit testing\\mobdev.bestpractice\\mobdev.bestpractice\\mobdev.bestpractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git-mobdev\\mobdev.bestpractice\\mobdev.bestpractice\\mobdev.bestpractice.csproj",
+        "projectUniqueName": "D:\\git-mobdev\\best-practices\\unit testing\\mobdev.bestpractice\\mobdev.bestpractice\\mobdev.bestpractice.csproj",
         "projectName": "mobdev.bestpractice",
-        "projectPath": "D:\\git-mobdev\\mobdev.bestpractice\\mobdev.bestpractice\\mobdev.bestpractice.csproj",
+        "projectPath": "D:\\git-mobdev\\best-practices\\unit testing\\mobdev.bestpractice\\mobdev.bestpractice\\mobdev.bestpractice.csproj",
         "packagesPath": "C:\\Users\\ccard\\.nuget\\packages\\",
-        "outputPath": "D:\\git-mobdev\\mobdev.bestpractice\\mobdev.bestpractice\\obj\\",
+        "outputPath": "D:\\git-mobdev\\best-practices\\unit testing\\mobdev.bestpractice\\mobdev.bestpractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

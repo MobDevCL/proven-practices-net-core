@@ -15,13 +15,13 @@ namespace mobdev.bestpractice.domain
 
         private decimal BalanceSum(decimal amount)
         {
-            return balance = balance + amount;
+            return balance += amount;
         }
 
-         public void TransferFunds(Account destination, decimal amount)
+        public void TransferFunds(Account destination, decimal amount)
         {
-            this.balance = this.balance - amount;
-            destination.balance = destination.balance + amount;
+            this.balance -=  amount;
+            destination.balance += amount;
         }
     }
 }

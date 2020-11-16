@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VOsb8qS9eVsRmtoesxFlNJJEWTpr1Bf42OAba0PP40Ae6Gr79glTOCZjCizM+bmh96z20lADXm9ye0JFztnKYQ==",
+  "dgSpecHash": "O9YLYsondBELOEhCl5qWtEm/NIIUnRW7+i0ZT6LjL1J4Tx++Hdf/kRLrYm0h2UFbz2q2MU3dWfTkpl2DUBVTKA==",
   "success": true,
-  "projectFilePath": "D:\\git-mobdev\\mobdev.bestpractice\\mobdev.bestpractice.test\\mobdev.bestpractice.test.csproj",
+  "projectFilePath": "D:\\git-mobdev\\best-practices\\unit testing\\mobdev.bestpractice\\mobdev.bestpractice.test\\mobdev.bestpractice.test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ccard\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

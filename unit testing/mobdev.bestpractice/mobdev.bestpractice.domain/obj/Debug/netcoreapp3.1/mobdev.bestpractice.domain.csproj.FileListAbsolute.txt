@@ -7,3 +7,12 @@ D:\git-mobdev\mobdev.bestpractice\mobdev.bestpractice.domain\obj\Debug\netcoreap
 D:\git-mobdev\mobdev.bestpractice\mobdev.bestpractice.domain\obj\Debug\netcoreapp3.1\mobdev.bestpractice.domain.pdb
 D:\git-mobdev\mobdev.bestpractice\mobdev.bestpractice.domain\obj\Debug\netcoreapp3.1\mobdev.bestpractice.domain.csprojAssemblyReference.cache
 D:\git-mobdev\mobdev.bestpractice\mobdev.bestpractice.domain\obj\Debug\netcoreapp3.1\mobdev.bestpractice.domain.csproj.CoreCompileInputs.cache
+D:\git-mobdev\best-practices\unit testing\mobdev.bestpractice\mobdev.bestpractice.domain\bin\Debug\netcoreapp3.1\mobdev.bestpractice.domain.deps.json
+D:\git-mobdev\best-practices\unit testing\mobdev.bestpractice\mobdev.bestpractice.domain\bin\Debug\netcoreapp3.1\mobdev.bestpractice.domain.dll
+D:\git-mobdev\best-practices\unit testing\mobdev.bestpractice\mobdev.bestpractice.domain\bin\Debug\netcoreapp3.1\mobdev.bestpractice.domain.pdb
+D:\git-mobdev\best-practices\unit testing\mobdev.bestpractice\mobdev.bestpractice.domain\obj\Debug\netcoreapp3.1\mobdev.bestpractice.domain.csprojAssemblyReference.cache
+D:\git-mobdev\best-practices\unit testing\mobdev.bestpractice\mobdev.bestpractice.domain\obj\Debug\netcoreapp3.1\mobdev.bestpractice.domain.AssemblyInfoInputs.cache
+D:\git-mobdev\best-practices\unit testing\mobdev.bestpractice\mobdev.bestpractice.domain\obj\Debug\netcoreapp3.1\mobdev.bestpractice.domain.AssemblyInfo.cs
+D:\git-mobdev\best-practices\unit testing\mobdev.bestpractice\mobdev.bestpractice.domain\obj\Debug\netcoreapp3.1\mobdev.bestpractice.domain.csproj.CoreCompileInputs.cache
+D:\git-mobdev\best-practices\unit testing\mobdev.bestpractice\mobdev.bestpractice.domain\obj\Debug\netcoreapp3.1\mobdev.bestpractice.domain.dll
+D:\git-mobdev\best-practices\unit testing\mobdev.bestpractice\mobdev.bestpractice.domain\obj\Debug\netcoreapp3.1\mobdev.bestpractice.domain.pdb

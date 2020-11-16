@@ -1,6 +1,8 @@
 # Overview
-En las siguientes lineas revisaremos las mejoras practicas de **Clean Code & Clean Arquitecture** como también las **buenas practicas que tiene Sura Seguros como estandar**, además de las **buenas practicas** de la **codificación defensiva** para proteger nuestros desarrollos desde el momento de escribir la primera linea de código 
+En las siguientes lineas revisaremos las mejoras practicas de **Clean Code & Clean Arquitecture**, además de las **buenas practicas** de la **codificación defensiva** para proteger nuestros desarrollos desde el momento de escribir la primera linea de código
 
+## Contenido
+1. [Unit Test](#unit-test) 
 ## Unit Test
   - Antes de comenzar un proyecto debes instalar los siguientes package
   
@@ -41,8 +43,6 @@ usage `if(lstCuentas.Any())` en vez de `if(lstCuentas != null) o if(lstCuentas.C
 ### Nomenclaturas (Naming Conventions) & Estructura de proyectos
 
 - Proyectos
-  Los proyectos deben tener el nombre de la compañia en el caso de Sura debén llamarse `SegurosSura.[Proyecto].[Capa] por ejemplo SegurosSura.SeguroxKM.API`
-  
 - Procedimientos
 - Funciones
 - Variables

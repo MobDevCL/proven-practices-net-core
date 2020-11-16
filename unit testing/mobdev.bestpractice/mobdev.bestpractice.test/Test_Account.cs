@@ -3,11 +3,10 @@ using mobdev.bestpractice.domain;
 
 namespace mobdev.bestpractice.test
 {
-    public class Tests_Account
+    public class Test_Account
     {
 
-        
-
+       
 
     }
 }
