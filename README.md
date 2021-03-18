@@ -26,6 +26,7 @@ Cómo crear un proyecto de Unit Test con **NUnit**
 ## Implementación y uso de Coverlet en Unit Test
 
 - Visualización reportes de Covertura con plugin de Visual Studio:
+
     - Instalar plugin de Visual Studio [link](https://marketplace.visualstudio.com/items?itemName=ChrisDexter.RunCoverletReport)
     - Instalar mediante Administrador de paquetes nuget: Coverlet Collector [link](https://www.nuget.org/packages/coverlet.collector) 
     - Instalar mediante Administrador de paquetes nuget: Coverlet MSBuild [link](https://www.nuget.org/packages/coverlet.msbuild)
